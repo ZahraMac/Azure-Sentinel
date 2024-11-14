@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8fd116d0-ae58-4bdd-8c00-1933399501b3)<h1>Failed RDP to IP Geolocation Information</h1>
+<h1>Failed RDP to IP Geolocation Information</h1>
 
 
 <h2>Description</h2>
@@ -26,7 +26,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/fFqdbbJ.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/GH1nbHn.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
